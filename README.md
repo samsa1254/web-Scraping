@@ -1,0 +1,2 @@
+# web-Scraping
+A simple web application that firmly scraps data from a collection of trip agencies , collects the data , organize and insert it directly into the DB , along with a copy of a .csv file , created and stored directly into a zip file (each time you launch the project , the .csv files created are then dated and stored), the data then are displayed on a UI , along with other functionalities such as sorting the data , recommendation and favs.
